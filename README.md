@@ -1,4 +1,4 @@
 # First
 This is my first Git Repository.
 <br>
-By Ayush rai
+By Ayush rai(Lazy coder)
